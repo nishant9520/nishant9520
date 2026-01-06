@@ -35,8 +35,7 @@ Swagger, Postman, GitLab
 
 ---
 
-### 🏢 IGL Genesis Technologies Ltd.
-*(Formerly Genesis Gas Solutions (P) Ltd.)*  
+### 🏢 IGL Genesis Technologies Ltd.*(Formerly Genesis Gas Solutions (P) Ltd.)*  
 **Software Engineer**  
 📅 **Dec 2021 – July 2024**
 
