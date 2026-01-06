@@ -108,15 +108,15 @@ Entity Framework Core, LINQ, jQuery, AJAX, JSON, Git, Multithreading
 ## 🎓 Education
 
 - **B.Tech (Computer Science)**  
-  R.D. Engineering College (A.K.T.U) | **2018 – 2022**  
+  R.D. Engineering College (A.K.T.U) | **2022**  
   **CGPA:** 7.5
 
 - **Intermediate (12th)**  
-  Parikshitgarh Inter College, Meerut (U.P) | **2017 – 2018**  
+  Parikshitgarh Inter College, Meerut (U.P) | **2018**  
   **Percentage:** 80%
 
 - **High School (10th)**  
-  Parikshitgarh Inter College, Meerut (U.P) | **2015 – 2016**  
+  Parikshitgarh Inter College, Meerut (U.P) | **2016**  
   **Percentage:** 75%
 
 ---
